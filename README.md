@@ -1,6 +1,6 @@
 ## Olá, eu sou o Tiago Damasceno.👋😄
-- 🔭 Hoje trabalho com Desenvolvimento Full stack.
-- 🌱 Estudando e aprendendo Laravel.
+- 🔭 Hoje eu trabalho com Desenvolvimento Full stack.
+- 🌱 Estudando e aprendendo Tecnologias Oracle.
 - 💬 Me pergunte sobre Tecnologia.
 - 😄 Pronomes: Ele/Dele.
 <p>Tecnologias:</p>
